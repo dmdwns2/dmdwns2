@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning java / spring
+🌱 I’m currently learning 
 
-
+<img src="https://img.shields.io/badge/Spring-green?style=6DB33F&logo=Spring&logoColor=green"/> <img src="https://img.shields.io/badge/Java-skyblue?style=2F2625&logo=Spring&logoColor=skyblue"/>
 
 <!--
 **dmdwns2/dmdwns2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
