@@ -1,21 +1,3 @@
-### Hi there 👋
+<img src="https://img.shields.io/badge/Java-navy?style=2F2625&logo=java&logoColor=navy"/> <img src="https://img.shields.io/badge/Spring-green?style=6DB33F&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-skyblue?style=4479A1&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/Linux-yellow?style=FCC624&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/vim-purple?style=019733&logo=vim&logoColor=black"/> 
 
-<img src="https://img.shields.io/badge/Spring-green?style=6DB33F&logo=Spring&logoColor=green"/> <img src="https://img.shields.io/badge/Java-skyblue?style=2F2625&logo=java&logoColor=skyblue"/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmdwns2&show_icons=true&theme=default)
-
-
-<!--
-**dmdwns2/dmdwns2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just enjoy it.
